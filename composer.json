@@ -11,7 +11,6 @@
     ],
     "require": {
         "php": ">=5.4.0",
-        "illuminate/database": "4.2.x|~5.0|5.2.x",
         "ext-mbstring": "*"
     },
     "autoload": {
